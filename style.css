@@ -1,0 +1,44 @@
+body{
+    height: 100svh;
+}
+.constyle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+.form{
+    width: 500px;
+    height: 400px;
+    background-color:antiquewhite;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
+.inputs{
+    
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    
+ }
+
+    #Task{
+        margin-top: 10px;
+    }
+
+.lists{
+    text-align: center;
+    
+}
+
+.input{
+    display: none;
+}
+.done{
+    color: #000;
+}
